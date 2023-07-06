@@ -1,0 +1,20 @@
+﻿Installing assembly 'D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Rolling back assembly 'D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing assembly 'D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Rolling back assembly 'D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = D:\DotNet\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe

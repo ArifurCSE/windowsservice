@@ -1,0 +1,10 @@
+D:\DotNet\MyFirstService\MyFirstService\bin\Release\MyFirstService.exe.config
+D:\DotNet\MyFirstService\MyFirstService\bin\Release\MyFirstService.exe
+D:\DotNet\MyFirstService\MyFirstService\bin\Release\MyFirstService.pdb
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.csproj.AssemblyReference.cache
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.ProjectInstaller.resources
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.csproj.GenerateResource.cache
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.csproj.CoreCompileInputs.cache
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.exe
+D:\DotNet\MyFirstService\MyFirstService\obj\Release\MyFirstService.pdb
